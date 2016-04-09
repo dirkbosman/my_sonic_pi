@@ -26,5 +26,3 @@ live_loop :fibble do
   sleep 0.1
   play 50, amp: 0.5
 end
-
-test
